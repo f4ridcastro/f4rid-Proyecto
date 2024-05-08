@@ -1,0 +1,304 @@
+body{
+    background-color: rgb(12, 204, 204);
+}
+
+*{
+    margin: 0px;
+    padding: 5px;
+}
+.titulo1{
+    color:rgb(255, 255, 255);
+    width: 700px;
+    height: 40px;
+    background-color:rgb(0, 0, 0);
+}
+
+.titulo2{
+    color: black;
+    font-size: 25px;
+    width: 300px;
+    height: 50pxpx;
+    background-color: rgb(62, 221, 110);
+
+}
+
+.titulo3{
+    color: black;
+    font-size: 25px;
+    width: 300px;
+    height: 40px;
+    background-color:rgb(62, 248, 161);
+  }
+
+.titulo4{
+    color: black;
+    font-size: 25px;
+    width: 300px;
+    height: 40px;
+    background-color: rgb(62, 248, 161);
+}
+
+.titulo5{
+    color: rgb(255, 255, 255);
+    font-size: px
+    height: 200px;
+    width: 1800px;
+    background-color: rgb(255, 1, 99);
+}
+
+.titulo6{
+    color: black;
+    font-size: 25px;
+    width: 300px;
+    height: 40px;
+    background-color: rgb(62, 248, 161);
+}
+
+.titulo7{
+    color: black;
+    font-size: 25px;
+    width: 300px;
+    height: 40px;
+    background-color:rgb(62, 248, 161);
+}
+
+ul{
+    list-style-type:  none;
+}
+
+li{
+    display: inline;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    background-color: khaki;
+  }
+
+  .centered-list {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+
+  .nombre{
+    color: black;
+    background-color:white;
+  }
+
+  .No{
+    color: wheat;
+    background-color: black;
+  }
+
+  .tipo{
+    color: black;
+    background-color: white;
+  }
+
+  .edad{
+    color: wheat;
+    background-color: black;
+  }
+
+  .fecha{
+    color: black;
+    background-color: white;
+  }
+
+  .nacimiento{
+    color: wheat;
+    background-color: black;
+  }
+
+  .ciudad{
+    color: black;
+    background-color: white;
+  }
+
+  .tele{
+    color: wheat;
+    background-color: black;
+  }
+
+  .correo{
+    color: black;
+    background-color: white;
+  }
+
+  .yo{
+    color: wheat;
+    background-color: black;
+  }
+
+  .numero{
+    color: black;
+    background-color:white;
+}
+
+  .cedula{
+    color: wheat;
+    background-color: black;
+  }
+
+  .tiempo{
+    color: black;
+    background-color: white;
+  }
+
+  .cumple{
+    color: wheat;
+    background-color: black;
+  }
+
+  .nacio{
+    color: black;
+    background-color: white;
+  }
+
+  .vive{
+    color: wheat;
+    background-color: black;
+  }
+
+  .celu{
+    color: black;
+    background-color: white;
+  }
+
+  .men{
+    color: wheat;
+    background-color: black;
+  }
+
+  .frase2{
+    color:black;
+    background-color: white;
+}
+
+  .frase3{
+    color:black;
+    background-color: white;
+}
+
+  .frase4{
+    color:black;
+    background-color: white;
+}
+
+  .primaria{
+    color: wheat;
+    background-color: black;
+  }
+
+  .secundaria{
+    color: black;
+    background-color: white;
+  }
+
+  .superior{
+    color: wheat;
+    background-color: black;
+  }
+
+  .pri{
+    color: black;
+    background-color: white;
+  }
+
+  .secu{
+    color: wheat;
+    background-color: black;
+  }
+
+  .tecnico{
+    color: black;
+    background-color: white;
+  }
+
+  .ins{
+    color: black;
+    background-color: white;
+  }
+
+  .tel{
+    color: wheat;
+    background-color: black;
+  }
+
+  .ins2{
+    color: wheat;
+    background-color: black;
+  }
+
+  .tel2{
+    color: black;
+    background-color: white;
+  }
+
+  .ins3{
+    color: black;
+    background-color: white;
+  }
+
+  .tel3{
+    color: wheat;
+    background-color: black;
+  }
+
+  .Listado{
+    color: black;
+    font-size: 25px;
+    width: 300px;
+    height: 40px;
+    background-color:rgb(62, 248, 161);
+  }
+
+  .si{
+    color: rgba(62, 248, 161);
+    background-color: black;
+  }
+
+  .alias{
+    color: black;
+    background-color: white;
+  }
+
+  .bueno{
+    color: wheat;
+    background-color: black;
+  }
+
+  .centrar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .formu{
+    color: black;
+    font-size: 25px;
+    width: 300px;
+    height: 40px;
+    background-color: rgb(62, 248, 161);
+  }
+
+  .no{
+    color: rgb(255, 254, 254);
+    background-color: black;
+  }
+
+  input:hover {
+    background-color:rgb(62, 248, 161);
+    color: black;
+  }
+
+
+
+
+
+  
